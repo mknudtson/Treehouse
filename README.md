@@ -2,7 +2,7 @@
 
 This repo is for all my course files completed through teamtreehouse.com
 
-Also check out my Treehouse profile [here](www.abc.com)
+Also check out my Treehouse profile [here](www.abc.com) 
 
 :tada:
 
